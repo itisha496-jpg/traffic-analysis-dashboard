@@ -38,4 +38,7 @@ streamlit run dashboard.py
 - Triple riding detection needs pose estimation
 - Works best in daylight conditions
 
-- 
+- <img width="1874" height="750" alt="Screenshot 2026-05-15 172549" src="https://github.com/user-attachments/assets/cea0686f-e381-4117-849f-4d203d427ebf" />
+<img width="1846" height="826" alt="Screenshot 2026-05-15 172606" src="https://github.com/user-attachments/assets/10744660-0d19-4819-8cbd-482a31ff00f6" />
+
+
